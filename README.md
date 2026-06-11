@@ -7,34 +7,47 @@ The project demonstrates practical skills in data cleaning, exploratory analysis
 
 **2.Project Objectives**
 
-# Analyze food prices across different regions of India.
-# Compare average prices across food categories.
-# Identify pricing trends in milk and dairy products.
-# Study food price variations among major Indian cities.
-# Build interactive dashboards that support data-driven insights.
+#Analyze food prices across different regions of India.
+#Compare average prices across food categories.
+#Identify pricing trends in milk and dairy products.
+#Study food price variations among major Indian cities.
+#Build interactive dashboards that support data-driven insights.
 
 **Repository Contents**
+
+## Repository Contents
+
+```text
+Food-Prices-India-Tableau/
+│
 ├── Dataset/
-│   └── Food Prices India Dataset
+│   └── Food Prices India Dataset.csv
 │
 ├── Tableau Workbook/
 │   └── Food_Prices_India.twbx
 │
 ├── Dashboard PPT/
-│   └── Dashboard Presentation
+│   └── Dashboard_Presentation.pptx
 │
 ├── Sheets PPT/
-│   └── Individual Worksheet Explanations
+│   └── Worksheet_Explanations.pptx
 │
 ├── Dashboard Snapshots/
-│   └── Dashboard Images and Visual Outputs
+│   ├── Dashboard_1.png
+│   ├── Dashboard_2.png
+│   └── Dashboard_3.png
 │
 └── README.md
+```
+
 
 Dashboard Highlights
+
 **Sheet 1.Average Food Category Prices:** Provides a comparison of average prices across various food categories, helping identify the most and least expensive categories.
 
+
 **Sheet 2.Milk & Dairy Product Analysis**:Focuses on milk and dairy products to understand pricing patterns and regional differences.
+
 
 **Sheet 3.City-wise Food Price Comparison**:Compares food prices across major Indian cities, highlighting geographical variations and market trends.
 
@@ -83,6 +96,7 @@ Dashboard screenshots are available in the Dashboard Snapshots folder.
 These previews provide a quick understanding of the visualizations and insights generated from the dataset.
 
 Author
+   
     -Girish Bhosale
 
     Data Analyst | Tableau Developer
