@@ -1,4 +1,5 @@
 **Food Prices Analysis in India - Tableau Dashboard**
+**Link:https://public.tableau.com/app/profile/girish.bhosale8411/viz/Food_Price_IND/Food_Price_IND**
 
 **1.Overview**
 This project presents an interactive Tableau dashboard analyzing food prices across India. The objective is to transform raw food price data into meaningful insights through data visualization, helping users understand regional price variations, category-wise trends, and city-level comparisons.
